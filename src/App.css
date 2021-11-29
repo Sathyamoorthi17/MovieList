@@ -1,8 +1,13 @@
 body{
+<<<<<<< HEAD
   margin: 30px;
   font-family: 'Poppins', sans-serif;
 }
 
+=======
+  font-family: 'Poppins', sans-serif;
+}
+>>>>>>> 0bf2c91d41bcb0d5b9cf45114b7f9b9dbf0c08bf
 .movie-list{
   padding: 20px;
   display: flex;
@@ -10,32 +15,48 @@ body{
   flex-wrap: wrap;
   justify-content: space-evenly;
 }
+<<<<<<< HEAD
 
 .movie-container{
   width: 380px;
 }
 
+=======
+.movie-container{
+  width: 380px;
+}
+>>>>>>> 0bf2c91d41bcb0d5b9cf45114b7f9b9dbf0c08bf
 .movie-specs{
   display: flex;
   align-items: center;
   justify-content: space-between;
 }
+<<<<<<< HEAD
 
+=======
+>>>>>>> 0bf2c91d41bcb0d5b9cf45114b7f9b9dbf0c08bf
 .movie-poster{
   height: 520px;
   width: 380px;
   object-fit: cover;
 }
+<<<<<<< HEAD
 
 .movie-name{
 font-size: 24px;
 margin: 0;
 }
 
+=======
+.movie-name{
+font-size: 24px;
+}
+>>>>>>> 0bf2c91d41bcb0d5b9cf45114b7f9b9dbf0c08bf
 .movie-rating{
   font-size: 17px;
   font-weight: 400;
 }
+<<<<<<< HEAD
 
 .likes-dislikes{
  font-size: 24px;
@@ -68,6 +89,14 @@ margin: 0;
   height: 500px;
   width: 100%;
   object-fit: cover;
+=======
+.likes-dislikes{
+ font-size: 24px;
+}
+.counter-container{
+  display: flex;
+  gap: 10px;
+>>>>>>> 0bf2c91d41bcb0d5b9cf45114b7f9b9dbf0c08bf
 }
 
 .movie-detail-container{
